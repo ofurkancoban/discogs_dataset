@@ -1,1 +1,1 @@
-# discogs_dataset
+# Discogs Releases Dataset Processing Project
