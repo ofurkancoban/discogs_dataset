@@ -1,4 +1,4 @@
-![Discogs]([\blob\main\img\discogs.png)
+![Discogs]([img/discogs.png)
 # "Vinyl Enthusiasm Meets Big Data: Converting 70 GB-sized Discogs Dataset into CSV with Python”
 
 **"Discogs is a platform that music enthusiasts, especially vinyl collectors, are well-acquainted with, standing as one of the world's largest music databases. This platform encompasses a vast range of information related to music, from artists to albums, from vinyls to cassettes. Often, in my deep dives into my vinyl collection, I've knocked on the doors of Discogs. Thus, when I had the opportunity to access the massive dataset named "releases" on Discogs, embarking on this project was not just a technical challenge for me, but also a source of personal excitement."**
