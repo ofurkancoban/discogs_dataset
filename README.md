@@ -21,7 +21,7 @@ It was particularly beneficial to gauge the number of records present. A prelimi
 
 Having a precise count was vital as it informed my chunking strategy – ensuring I create XML chunks that are both manageable in size and meaningful in content.
 
-![EmEditor](C:\Users\ofurkancoban\Desktop\Discogs Project\img\1.gif)
+![EmEditor](https://github.com/ofurkancoban/discogs_dataset/blob/main/img/1.gif)
 
 ---
 
@@ -151,7 +151,7 @@ The total time taken for the script to run, which is calculated by deducting the
 
 With these final steps, our script not only ensures that the data is processed efficiently but also provides a concise summary of its operations. This combination of precision processing and feedback makes the script robust and user-friendly.
 
-![Chunking Process](C:\Users\ofurkancoban\Desktop\Discogs Project\img\2.gif)
+![Chunking Process](https://github.com/ofurkancoban/discogs_dataset/blob/main/img/2.gif)
 
 ### ➡️ Conclusion
 
@@ -302,8 +302,7 @@ df = pl.DataFrame(data_list)
 
 The beauty of Polars lies in its ability to handle data at scale while maintaining simplicity and speed, a combination that proved invaluable for this project.
 
-![XML Processing](C:\Users\ofurkancoban\Desktop\Discogs Project\img\3.gif)
-
+![XML Processing](https://github.com/ofurkancoban/discogs_dataset/blob/main/img/3.gif)
 ### ➡️ Exporting to CSV
 
 The final stage of our endeavor is to store our processed data. With the data comfortably resting in a DataFrame, exporting it to a CSV is seamless:
