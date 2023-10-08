@@ -124,7 +124,7 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=8) as executor:
 df = pl.DataFrame(data_list)
 
 # Polars DataFrame'i bir CSV dosyasına kaydedin
-df.write_csv('discogs.csv', overwrite=True)
+df.write_csv('discogs.csv')
 
 # İşlem süresini ve dosya sayısını yazdırın
 print(f"Toplam {dosya_sayaci} XML dosyası işlendi.")

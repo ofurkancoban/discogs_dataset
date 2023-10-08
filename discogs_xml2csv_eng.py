@@ -78,7 +78,7 @@ def print_processed_count(processed_count):
 
 
 # Path to the folder you want to process
-folder_path = 'chunked'
+folder_path = 'a'
 
 # List XML files in the folder
 file_list = [file for file in os.listdir(folder_path) if file.endswith('.xml')]
@@ -124,8 +124,9 @@ with concurrent.futures.ThreadPoolExecutor(max_workers=8) as executor:
 df = pl.DataFrame(data_list)
 
 # Write the Polars DataFrame to a CSV file
-df.write_csv('discogs.csv', overwrite=True)
+df.write_csv("discogs.csv")
 
 # Print the processing time and file count
 print(f"Total {file_counter} XML files processed.")
 print(f"Total processing time: {total_elapsed_time:.2f} seconds")
+
