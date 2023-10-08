@@ -319,8 +319,6 @@ After the entire process, we arrived at a raw dataset comprising a staggering 16
 
 While transforming and exporting the dataset into CSV, some might run into memory issues due to the sheer size of the dataset. To mitigate this, I've crafted a script that pushes the dataset into a database first and then facilitates exporting from there. This approach is more memory-efficient and should overcome common memory challenges.
 
-I have personally uploaded the script to my GitHub repository for those who wish to take this approach. You can access it [here](https://github.com/ofurkancoban/discogs_dataset).
-
 Moreover, for the convenience of data enthusiasts and to foster further exploration, I've also made the datasets available on my Kaggle profile. You can dive into this vast sea of data by visiting [this Kaggle link](https://www.kaggle.com/datasets/ofurkancoban/discogs-releases-dataset).
 
 As we wrap up this exploration, I genuinely hope that this dataset serves as a valuable resource in your future projects. There's a myriad of insights waiting to be discovered, and I'm excited to see the innovative ways in which this data might be employed by the community.
