@@ -78,7 +78,7 @@ def print_processed_count(processed_count):
 
 
 # Path to the folder you want to process
-folder_path = 'a'
+folder_path = 'chunked'
 
 # List XML files in the folder
 file_list = [file for file in os.listdir(folder_path) if file.endswith('.xml')]
