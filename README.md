@@ -323,4 +323,4 @@ Moreover, for the convenience of data enthusiasts and to foster further explorat
 
 As we wrap up this exploration, I genuinely hope that this dataset serves as a valuable resource in your future projects. There's a myriad of insights waiting to be discovered, and I'm excited to see the innovative ways in which this data might be employed by the community.
 
-Thank you for accompanying me on this journey. Here's to leveraging data for greater insights and creativity in all our endeavors!ct
+Thank you for accompanying me on this journey. Here's to leveraging data for greater insights and creativity in all our endeavors!
